@@ -68,7 +68,7 @@ function App() {
             <div className="flex flex-col justify-center text-center md:mt-5 mt-3">
               <p className="text-white md:text-2xl text-xl font-bold">600+</p>
               <p className=" text-gray-400 md:text-xl text-lg font-bold">
-                Different Courses
+                Different Courses!!!
               </p>
             </div>
           </div>
