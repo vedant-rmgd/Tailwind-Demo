@@ -1,3 +1,5 @@
+import Footer from "./Footer";
+
 function App() {
   return (
     // navbar
@@ -215,6 +217,9 @@ function App() {
           </div>
         </div>
       </div>
+
+      {/* footer */}
+      <Footer/>
     </>
   );
 }
