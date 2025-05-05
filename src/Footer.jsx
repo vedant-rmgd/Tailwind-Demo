@@ -15,6 +15,9 @@ function Footer() {
           <p class="text-sm">&copy; 2025 YourCompany. All rights reserved.</p>
           <div class="flex space-x-4 mt-4 md:mt-0">
             <a href="#" class="hover:underline">
+              Home!
+            </a>
+            <a href="#" class="hover:underline">
               Privacy Policy!
             </a>
             <a href="#" class="hover:underline">
