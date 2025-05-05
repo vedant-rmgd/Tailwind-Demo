@@ -1,12 +1,51 @@
-# React + Vite
+# 🚀 Demo Tailwind Website (Vite + React)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a practice project built using **Vite**, **React**, and **Tailwind CSS**. The goal of this demo is to explore fast frontend development using modern tools and utility-first styling with Tailwind.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 Notes
 
-## Expanding the ESLint configuration
+- This is a demo for learning purposes  
+- You can fork and expand it into a full portfolio or landing page  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+- ⚛️ **React** – component-based UI
+- ⚡ **Vite** – blazing fast build tool
+- 🎨 **Tailwind CSS** – utility-first CSS framework
+
+---
+
+## 🧑‍🎨 Features
+
+- Fully responsive layout using Tailwind classes  
+- Simple reusable components  
+- Organized and beginner-friendly code
+
+---
+
+## 📦 Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/vedant-rmgd/Tailwind-Demo.git
+
+# Navigate to the project directory
+cd Tailwind-Demo
+
+# Install dependencies
+npm install
+
+## 🧑‍💻 Author
+
+**Vedant Ramgade**  
+[GitHub](https://github.com/vedant-rmgd)
+
+---
+
+## 📄 License
+
+MIT License – free to use and modify
