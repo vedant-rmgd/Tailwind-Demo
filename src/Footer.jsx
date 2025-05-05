@@ -23,6 +23,9 @@ function Footer() {
             <a href="#" class="hover:underline">
               Contact!
             </a>
+            <a href="#" class="hover:underline">
+              About Us!
+            </a>
           </div>
         </div>
       </footer>
